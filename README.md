@@ -1,9 +1,4 @@
-# This is my first try to push on github 
-
-Here's a README text you can use for your GitHub project:
-
----
-
+# This is my first try to push code  on github 
 # Simple Calculator
 
 This is my first project on GitHub—a basic calculator built using HTML, CSS, and JavaScript. It provides essential arithmetic operations with a simple and minimal UI.
